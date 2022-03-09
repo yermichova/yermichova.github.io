@@ -1,17 +1,24 @@
 ---
-layout: default
+layout: post
+Title: Stress in Our Life
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+# this is heading 1
+## this heading 2
+### this is heading 3
 
-  <div class="entry">
-    {{ content }}
-  </div>
+This is the first paragraph
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+- list item
+- list item
+- list item
 
-  {% include disqus.html %}
-</article>
+1. list item 1
+2. liste item 2
+3. list item 3
+
+**This text is going to be bold**
+
+*This is going to be italic*
+
+___This is both bold and italic___
