@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I am Arina and I am stressed:)
+How are you doing?
+Enjoy [my video](https://www.youtube.com/watch?v=UhjFqOgvkPk&t=4s) with a box unpacking.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aj3237@nyu.edu](mailto:aj3237@nyu.edu)
