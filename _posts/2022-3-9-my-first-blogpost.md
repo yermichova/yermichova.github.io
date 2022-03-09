@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Stress in Our Life
+Title: Title Name
 ---
 
 # this is heading 1
